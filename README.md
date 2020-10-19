@@ -38,4 +38,7 @@ chatbot answering vitamins of different fruits
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CxVbL16USlg/0.jpg)](https://www.youtube.com/watch?v=CxVbL16USlg)
 
+## Resources : 
+
+[Information collected from....](https://www.berries.com/blog/types-of-fruit)
 
