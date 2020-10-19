@@ -20,6 +20,8 @@ chatbot answering vitamins of different fruits
    - The instructions are : 
       - To get a fruit detail it asks the user to enter a name of fruit.
       
+      - Then it display the list of fruits,for user convenience.
+      
       - To end chat,it asks the user to enter "0".
       
    - If the user enters a fruit name it will search for the details and provides the user with requires details.
@@ -27,3 +29,7 @@ chatbot answering vitamins of different fruits
    - If the user enters other than a fruit name it gives a warning to enter a valid fruit name.
    
    - If the user enters 0 then it greets and quit the chat.
+   
+   
+ ## Block Diagram of my code : 
+ 
