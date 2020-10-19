@@ -15,7 +15,7 @@ chatbot answering vitamins of different fruits
    
    - Then waits for user input, after the user input.
    
-   - Now it will greet the user according to the time of the day and provides the uer with 2 instructions.
+   - Now it will greet the user according to the time of the day and provides the user with 2 instructions.
    
    - The instructions are : 
       - To get a fruit detail it asks the user to enter a name of fruit.
@@ -35,4 +35,7 @@ chatbot answering vitamins of different fruits
  ![BlockDiagram](https://raw.githubusercontent.com/chandrika3105/ML2021-chatbot/main/BlockDiagram.jpg)
  
 ## Youtube link of my program execution : 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QhtVRQEGaIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QhtVRQEGaIE/0.jpg)](https://www.youtube.com/watch?v=QhtVRQEGaIE)
+
+
