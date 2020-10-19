@@ -32,4 +32,6 @@ chatbot answering vitamins of different fruits
    
    
  ## Block Diagram of my code : 
+    
+    - ![BlockDiagram](https://raw.githubusercontent.com/chandrika3105/ML2021-chatbot/main/BlockDiagram.jpg)
  
