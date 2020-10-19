@@ -40,5 +40,6 @@ chatbot answering vitamins of different fruits
 
 ## Resources : 
 
- - [Information about Fruits..](https://www.lenntech.com/fruit-vegetable-vitamin-content.htm)
+ - [Source-Fruits and vitamins](https://www.nutritionadvance.com/healthy-foods/types-of-fruit/)
+ 
 
